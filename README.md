@@ -2,6 +2,8 @@
 
 # CTranslate2
 
+test
+
 CTranslate2 is a C++ and Python library for efficient inference with Transformer models.
 
 The project implements a custom runtime that applies many performance optimization techniques such as weights quantization, layers fusion, batch reordering, etc., to [accelerate and reduce the memory usage](#benchmarks) of Transformer models on CPU and GPU.
