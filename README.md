@@ -3,6 +3,7 @@
 # CTranslate2
 
 test
+test2
 
 CTranslate2 is a C++ and Python library for efficient inference with Transformer models.
 
